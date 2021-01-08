@@ -21,16 +21,25 @@ h1:hover
 /*unvisitedd  link*/
 a:link{
     color:red;
+    width: fit-content;
+    background-color: aqua;
+    text-decoration: none;
+    font-size: 50px;
 }
 /*visited  link*/
 a:visited{
     color:green;
+    background-color: whitesmoke;
 }
 /*when mouse goes over the link -> hover*/
 a:hover{
   color:hotpink;
+  background-color: blueviolet;
+  font-size: 60px;
+  width: 0pxs;
+  s
 }
 /*when a link is selected or active*/
 a:active{
-    color:blue;
+    color:blue;s
 }
