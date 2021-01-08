@@ -56,3 +56,6 @@ a:active{
     font-family: Arial, Helvetica, sans-serif;
     text-transform: capitalize;
 }
+.first-child-class p:first-child{
+    color:crimson;
+}
